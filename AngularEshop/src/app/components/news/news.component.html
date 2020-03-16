@@ -1,0 +1,30 @@
+<p>{{title}}news works!</p>
+<h3>hahaha, this is news page!</h3>
+<p>
+    {{msg}}<br/>
+    {{student}}<br/>
+    {{userinfo.name}}<Strong>*</Strong>{{userinfo.age}}<br/>
+</p>
+
+<p>{{content}}</p><br/>
+<p>we use <strong>innerHTML</strong> as following: </p>
+<p [innerHTML]='content' class="red"></p><br/>
+<span>1+2={{1+2}}</span>
+<ol>
+    <li *ngFor="let item of list">
+    {{item}}
+    </li>
+</ol>
+<strong>-----------------</strong>
+<ul>
+    <li *ngFor="let x of items" class="red">
+        {{x}}
+    </li>
+</ul>
+<strong>################</strong><br/>
+<ul>
+    <li *ngFor="let y of userarrays" >
+    {{y.name}}--{{y.age}}
+    </li>
+</ul>
+<strong>-----------------</strong><br/>
