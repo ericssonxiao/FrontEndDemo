@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { News } from '../models'
+import { FormsModule } from '@angular/forms';
+
 @Component({
   selector: 'app-news',
   templateUrl: './news.component.html',
@@ -30,6 +31,11 @@ export class NewsComponent implements OnInit {
     age:40
   }];
 
+  public PicUrl = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg";
+  public flag:boolean = true;
+  public switchFlag:number = 2;
+  public today:any = new Date();
+
   constructor() { 
     this.title = "line 11: news title update";
     console.log(this.title);
@@ -37,6 +43,26 @@ export class NewsComponent implements OnInit {
   }
 
   ngOnInit(): void {
+  }
+
+  run(){
+    alert("这是一个自定义方法");
+  }
+
+  getTitle(){
+    alert(this.title);
+  }
+
+  setTitle(){
+    this.title = "hahaha";
+  }
+
+  keyDown(e){
+    if(e.keyCode == 13){
+      console.log("press entre!");
+    }else{
+      console.log(e.keyCode);
+    }
   }
 
 }

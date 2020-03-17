@@ -1,0 +1,58 @@
+<p>{{title}}news works!</p>
+<h3>hahaha, this is news page!</h3>
+<p>
+    {{msg}}<br/>
+    {{student}}<br/>
+    {{userinfo.name}}<Strong>*</Strong>{{userinfo.age}}<br/>
+</p>
+
+<p>{{content}}</p><br/>
+<p>we use <strong>innerHTML</strong> as following: </p>
+<p [innerHTML]='content' class="red"></p><br/>
+<span>1+2={{1+2}}</span>
+<ol>
+    <li *ngFor="let item of list">
+    {{item}}
+    </li>
+</ol>
+<strong>-----------------</strong>
+<ul>
+    <li *ngFor="let x of items;let key=index;" [ngClass]="{'blue':key==1,'orange':key==0}">
+        {{key}}--{{x}}
+    </li>
+</ul>
+<strong>################</strong><br/>
+<ul>
+    <li *ngFor="let y of userarrays;let key=index;" >
+        <span *ngIf="key==1" class="red">{{y.name}}--{{y.age}}</span>
+        <span *ngIf="key!=1">{{y.name}}--{{y.age}}</span>
+    </li>
+</ul>
+<strong>-----------------</strong><br/>
+<strong>本地图片</strong><br/>
+<img src="assets/1200px-Google_Images_2015_logo.svg.png" alt="google logo" width="100%"/><br/>
+<strong>网络图片</strong><br/>
+<img [src]="PicUrl" alt="angular logo"/><br/>
+<strong>条件判断</strong><br/>
+<p *ngIf="flag">aaa</p>
+<p *ngIf="!flag">bbb</p>
+<br/>
+<strong>ngSwitch使用：</strong><br/>
+<ul [ngSwitch]="switchFlag" >
+    <li *ngSwitchCase="1">已支付</li>
+    <li *ngSwitchCase="2">订单确认</li>
+    <li *ngSwitchCase="3">已发货</li>
+    <li *ngSwitchDefault>无效</li>
+</ul><br/>
+
+<strong>ngClass, ngStyle使用：</strong><br/>
+<div [ngClass]="{'blue':true,'red':false}">
+ngClass演示
+</div>
+
+<span>{{today|date:'yyyy-MM-dd'}}</span>
+<br/>
+<button (click)="run()" [ngClass]="{'red':true}" >Clike Me</button><br/>
+<strong>表单元素：</strong><br/>
+<input style="hight:20px;width:200px;background-color:#cccccc;" type="text" (keydown)="keyDown($event)" />
+<strong>MVVM 双向数据绑定：</strong><br/>
