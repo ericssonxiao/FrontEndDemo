@@ -181,5 +181,5 @@ Project Link: [https://github.com/ericssonxiao/repo](https://github.com/ericsson
 [license-url]: https://github.com/ericssonxiao/FrontEndDemo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ericssonxiao
-[product-screenshot]: images/ra1nfdo1Rq.gif
+[product-screenshot]: images/angular-electron.gif
 [page-under-construction]: image/Under-Construction-Sign.png
