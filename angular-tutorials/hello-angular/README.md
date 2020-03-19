@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ericssonxiao/repo">
+  <a href="https://github.com/ericssonxiao/FrontEndDemo">
     <img src="images/Under-Construction-Sign.png" alt="Logo" width="180" height="80">
   </a>
 
@@ -36,14 +36,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/ericssonxiao/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ericssonxiao/FrontEndDemo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ericssonxiao/repo">View Demo</a>
+    <a href="https://github.com/ericssonxiao/FrontEndDemo">View Demo</a>
     ·
-    <a href="https://github.com/ericssonxiao/repo/issues">Report Bug</a>
+    <a href="https://github.com/ericssonxiao/FrontEndDemo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ericssonxiao/repo/issues">Request Feature</a>
+    <a href="https://github.com/ericssonxiao/FrontEndDemo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -102,7 +102,7 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/ericssonxiao/repo.git
+git clone https://github.com/ericssonxiao/FrontEndDemo.git
 ```
 2. Install NPM packages
 ```sh
@@ -123,7 +123,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ericssonxiao/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ericssonxiao/FrontEndDemo/issues) for a list of proposed features (and known issues).
 
 
 
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/ericssonxiao/repo](https://github.com/ericssonxiao/repo)
+Project Link: [https://github.com/ericssonxiao/FrontEndDemo](https://github.com/ericssonxiao/FrontEndDemo)
 
 
 
@@ -181,5 +181,5 @@ Project Link: [https://github.com/ericssonxiao/repo](https://github.com/ericsson
 [license-url]: https://github.com/ericssonxiao/FrontEndDemo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ericssonxiao
-[product-screenshot]: images/ra1nfdo1Rq.gif
+[product-screenshot]: images/hello-angular.png
 [page-under-construction]: image/Under-Construction-Sign.png
