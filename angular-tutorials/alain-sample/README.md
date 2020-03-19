@@ -1,80 +1,185 @@
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** ericssonxiao, repo, twitter_handle, email
+-->
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-  <a href="https://ng-alain.com">
-    <img width="100" src="https://ng-alain.com/assets/img/logo-color.svg">
+  <a href="https://github.com/ericssonxiao/repo">
+    <img src="images/Under-Construction-Sign.png" alt="Logo" width="180" height="80">
   </a>
+
+  <h3 align="center">YOUR_TITLE</h3>
+
+  <p align="center">
+    YOUR_SHORT_DESCRIPTION
+    <br />
+    <a href="https://github.com/ericssonxiao/repo"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ericssonxiao/repo">View Demo</a>
+    ·
+    <a href="https://github.com/ericssonxiao/repo/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ericssonxiao/repo/issues">Request Feature</a>
+  </p>
 </p>
 
-<h1 align="center">NG-ALAIN</h1>
 
-<div align="center">
-  Out-of-box UI solution for enterprise applications, Let developers focus on business.
 
-  [![Build Status](https://img.shields.io/travis/ng-alain/ng-alain/master.svg?style=flat-square)](https://travis-ci.org/ng-alain/ng-alain)
-  [![Dependency Status](https://david-dm.org/ng-alain/ng-alain/status.svg?style=flat-square)](https://david-dm.org/ng-alain/ng-alain)
-  [![GitHub Release Date](https://img.shields.io/github/release-date/ng-alain/ng-alain.svg?style=flat-square)](https://github.com/ng-alain/ng-alain/releases)
-  [![NPM version](https://img.shields.io/npm/v/ng-alain.svg?style=flat-square)](https://www.npmjs.com/package/ng-alain)
-  [![prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://prettier.io/)
-  [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/ng-alain/ng-alain/blob/master/LICENSE)
-  [![Gitter](https://img.shields.io/gitter/room/ng-alain/ng-alain.svg?style=flat-square)](https://gitter.im/ng-alain/ng-alain)
-  [![ng-zorro-vscode](https://img.shields.io/badge/ng--zorro-VSCODE-brightgreen.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-zorro-vscode)
-  [![ng-alain-vscode](https://img.shields.io/badge/ng--alain-VSCODE-brightgreen.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=cipchk.ng-alain-vscode)
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-</div>
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-English | [简体中文](README-zh_CN.md)
 
-## Quickstart
 
-- [Getting Started](https://ng-alain.com/docs/getting-started)
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-## Links
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-+ [Document](https://ng-alain.com)
-+ [DEMO](https://ng-alain.github.io/ng-alain/)
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`ericssonxiao`, `repo`, `twitter_handle`, `email`
 
-## Features
 
-+ `ng-zorro-antd` based
-+ Responsive Layout
-+ I18n
-+ [@delon](https://github.com/ng-alain/delon)
-+ Lazy load Assets
-+ UI Router States
-+ Customize Theme
-+ Less preprocessor
-+ Well organized & commented code
-+ Simple upgrade
-+ Support Docker deploy
+### Built With
 
-## Architecture
+* []()
+* []()
+* []()
 
-![Architecture](https://raw.githubusercontent.com/ng-alain/delon/master/_screenshot/architecture.png)
 
-> [delon](https://github.com/ng-alain/delon) is a production-ready solution for admin business components packages, Built on the design principles developed by Ant Design.
 
-## App Shots
+<!-- GETTING STARTED -->
+## Getting Started
 
-![desktop](https://raw.githubusercontent.com/ng-alain/delon/master/_screenshot/desktop.png)
-![ipad](https://raw.githubusercontent.com/ng-alain/delon/master/_screenshot/ipad.png)
-![iphone](https://raw.githubusercontent.com/ng-alain/delon/master/_screenshot/iphone.png)
+To get a local copy up and running follow these simple steps.
 
-## Donation
+### Prerequisites
 
-ng-alain is an MIT-licensed open source project. In order to achieve better and sustainable development of the project, we expect to gain more backers. You can support us in any of the following ways:
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+```sh
+npm install npm@latest -g
+```
 
-- [patreon](https://www.patreon.com/cipchk)
-- [opencollective](https://opencollective.com/ng-alain)
-- [paypal](https://www.paypal.me/cipchk)
-- [支付宝或微信](https://ng-alain.com/assets/donate.png)
+### Installation
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/ericssonxiao/repo.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
 
-Or purchasing our [business theme](https://e.ng-alain.com/).
 
-## Backers
 
-Thank you to all our backers! 🙏
+<!-- USAGE EXAMPLES -->
+## Usage
 
-<a href="https://opencollective.com/ng-alain#backers" target="_blank"><img src="https://opencollective.com/ng-alain/backers.svg?width=890"></a>
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-### License
+_For more examples, please refer to the [Documentation](https://example.com)_
 
-The MIT License (see the [LICENSE](https://github.com/ng-alain/ng-alain/blob/master/LICENSE) file for the full text)
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/ericssonxiao/repo/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+
+Project Link: [https://github.com/ericssonxiao/repo](https://github.com/ericssonxiao/repo)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* []()
+* []()
+* []()
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[contributors-url]: https://github.com/ericssonxiao/FrontEndDemo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[forks-url]: https://github.com/ericssonxiao/FrontEndDemo/network/members
+[stars-shield]: https://img.shields.io/github/stars/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[stars-url]: https://github.com/ericssonxiao/FrontEndDemo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[issues-url]: https://github.com/ericssonxiao/FrontEndDemo/issues
+[license-shield]: https://img.shields.io/github/license/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[license-url]: https://github.com/ericssonxiao/FrontEndDemo/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/ericssonxiao
+[product-screenshot]: images/ra1nfdo1Rq.gif
+[page-under-construction]: image/Under-Construction-Sign.png
