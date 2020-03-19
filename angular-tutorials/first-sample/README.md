@@ -31,7 +31,7 @@
     <img src="images/Under-Construction-Sign.png" alt="Logo" width="180" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">first-sample</h3>
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
@@ -150,10 +150,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Eric Xiao - [@ericssonxiao](https://twitter.com/ericssonxiao)
 
 Project Link: [https://github.com/ericssonxiao/FrontEndDemo](https://github.com/ericssonxiao/FrontEndDemo)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
