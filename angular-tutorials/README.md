@@ -169,16 +169,16 @@ Project Link: [https://github.com/ericssonxiao/repo](https://github.com/ericsson
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ericssonxiao/angular-tutorials.svg?style=flat-square
-[contributors-url]: https://github.com/ericssonxiao/angular-tutorials/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ericssonxiao/angular-tutorials.svg?style=flat-square
-[forks-url]: https://github.com/ericssonxiao/angular-tutorials/network/members
-[stars-shield]: https://img.shields.io/github/stars/ericssonxiao/angular-tutorials.svg?style=flat-square
-[stars-url]: https://github.com/ericssonxiao/angular-tutorials/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ericssonxiao/angular-tutorials.svg?style=flat-square
-[issues-url]: https://github.com/ericssonxiao/angular-tutorials/issues
-[license-shield]: https://img.shields.io/github/license/ericssonxiao/angular-tutorials.svg?style=flat-square
-[license-url]: https://github.com/ericssonxiao/angular-tutorials/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[contributors-url]: https://github.com/ericssonxiao/FrontEndDemo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[forks-url]: https://github.com/ericssonxiao/FrontEndDemo/network/members
+[stars-shield]: https://img.shields.io/github/stars/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[stars-url]: https://github.com/ericssonxiao/FrontEndDemo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[issues-url]: https://github.com/ericssonxiao/FrontEndDemo/issues
+[license-shield]: https://img.shields.io/github/license/ericssonxiao/FrontEndDemo.svg?style=flat-square
+[license-url]: https://github.com/ericssonxiao/FrontEndDemo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ericssonxiao
 [product-screenshot]: images/ra1nfdo1Rq.gif
